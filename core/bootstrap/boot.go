@@ -1,4 +1,4 @@
-package bootsterap
+package bootstrap
 
 import (
 	"github.com/sajad-dev/gingo-helpers/internal/config"
